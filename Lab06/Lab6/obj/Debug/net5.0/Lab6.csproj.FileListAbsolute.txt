@@ -1,0 +1,16 @@
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\Lab6.exe
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\Lab6.deps.json
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.json
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.dev.json
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\Lab6.dll
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\ref\Lab6.dll
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\bin\Debug\net5.0\Lab6.pdb
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.csproj.AssemblyReference.cache
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfoInputs.cache
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfo.cs
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.csproj.CoreCompileInputs.cache
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.dll
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\ref\Lab6.dll
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.pdb
+C:\IT1050MatthewMosinski\Lesson 6-arrays\Lab06\Lab6\obj\Debug\net5.0\Lab6.genruntimeconfig.cache
