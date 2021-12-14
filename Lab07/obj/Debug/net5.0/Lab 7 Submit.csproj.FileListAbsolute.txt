@@ -1,0 +1,16 @@
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.csproj.AssemblyReference.cache
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.AssemblyInfoInputs.cache
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.AssemblyInfo.cs
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.csproj.CoreCompileInputs.cache
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\Lab 7 Submit.exe
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\Lab 7 Submit.deps.json
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\Lab 7 Submit.runtimeconfig.json
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\Lab 7 Submit.runtimeconfig.dev.json
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\Lab 7 Submit.dll
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\ref\Lab 7 Submit.dll
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\bin\Debug\net5.0\Lab 7 Submit.pdb
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.dll
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\ref\Lab 7 Submit.dll
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.pdb
+C:\IT1050MatthewMosinski\Lesson 7-classes and objects, encapsulation and composition\Lab 7 Submit\obj\Debug\net5.0\Lab 7 Submit.genruntimeconfig.cache
